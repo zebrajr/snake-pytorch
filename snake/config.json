@@ -1,0 +1,12 @@
+{
+    "gameSettings" : {
+        "width": 800,
+        "height": 600,
+        "title": "Snake and Reinforcement Learning by Carlos Sousa"
+    },
+    "gameColors" : {
+        "backgroundColor" : [0, 0 ,0],
+        "snakeColor" : [255, 0, 0],
+        "fruitColor" : [0, 255, 0]
+    }
+}
