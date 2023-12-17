@@ -2,7 +2,13 @@
     "gameSettings" : {
         "width": 800,
         "height": 600,
-        "title": "Snake and Reinforcement Learning by Carlos Sousa"
+        "title": "Snake and Reinforcement Learning by Carlos Sousa",
+        "fps" : 30,
+        "wrapAround": true,
+        "pointsPerFruit" : 10
+    },
+    "snakeSettings" : {
+        "initialPosition": [100, 50]
     },
     "gameColors" : {
         "backgroundColor" : [0, 0 ,0],
