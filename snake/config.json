@@ -5,7 +5,8 @@
         "title": "Snake and Reinforcement Learning by Carlos Sousa",
         "fps" : 30,
         "wrapAround": true,
-        "pointsPerFruit" : 10
+        "pointsPerFruit" : 10,
+        "timeLimit" : 90
     },
     "snakeSettings" : {
         "initialPosition": [100, 50]
